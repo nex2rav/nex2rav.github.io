@@ -2,7 +2,7 @@ import Manifest from '../../core/manifest'
 
 const manifestData = {
     author: 'Siaivo',
-    github: 'https://github.com/Siaivo/siaivo.github.io',
+    github: 'https://github.com/nex2rav/nex2rav.github.io/tree/main',
     patch_version: 3,
     cub_site: 'cub.rip',
     apk_link_download: 'https://github.com/lampa-app/LAMPA/releases/download/v1.12.3/app-lite-release.apk'
